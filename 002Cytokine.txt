@@ -1,0 +1,113 @@
+Gene	Function
+Csf2	Common beta chain Family
+Ilf5ra	Common beta chain Receptors
+Csf2ra	Common beta chain Receptors
+Csf2rb	Common beta chain Receptors
+Il15	Common gamma chain Family
+Il2	Common gamma chain Family
+Il21	Common gamma chain Family
+Il4	Common gamma chain Family
+Il7	Common gamma chain Family
+Il13ra1	Common gamma chain Receptors
+Il13ra2	Common gamma chain Receptors
+Il15ra	Common gamma chain Receptors
+Il21r	Common gamma chain Receptors
+Il7r	Common gamma chain Receptors
+Ifnar1	IFN Receptors
+Ifnar2	IFN Receptors
+Ifngr1	IFN Receptors
+Ifngr2	IFN Receptors
+Il33	IL1 Family
+Il18	IL1 Family
+Il18bp	IL1 Family
+Il1b	IL1 Family
+Il18r1	IL1 Receptors
+Il18rap	IL1 Receptors
+Il1r1	IL1 Receptors
+Il1r2	IL1 Receptors
+Il1rap	IL1 Receptors
+Il1rapl1	IL1 Receptors
+Il1rapl2	IL1 Receptors
+Il1rl1	IL1 Receptors
+Sigirr	IL1 Receptors
+Il10	IL10 Family
+Il19	IL10 Family
+Il24	IL10 Family
+Ifnlr1	IL10 Receptors
+Il10ra	IL10 Receptors
+Il20ra	IL10 Receptors
+Il20rb	IL10 Receptors
+Il22ra1	IL10 Receptors
+Il22ra2	IL10 Receptors
+Clcf1	IL6 Family
+Cntf	IL6 Family
+Csf3	IL6 Family
+Il11	IL6 Family
+Il27	IL6 Family
+Il6	IL6 Family
+Lep	IL6 Family
+Lif	IL6 Family
+Osm	IL6 Family
+Osmr	IL6 Receptors
+Cntfr	IL6 Receptors
+Csf3r	IL6 Receptors
+Il12rb1	IL6 Receptors
+Il31ra	IL6 Receptors
+Il6st	IL6 Receptors
+Lepr	IL6 Receptors
+Lifr	IL6 Receptors
+Tgfb1	TGF beta Family
+Tgfb2	TGF beta Family
+Tgfb3	TGF beta Family
+Acvr1c	TGF beta Family Receptors
+Atf2	TGF beta Family Receptors
+Eng	TGF beta Family Receptors
+Tgfbr1	TGF beta Family Receptors
+Tgfbr2	TGF beta Family Receptors
+Tgfbr3	TGF beta Family Receptors
+Cd40lg	TNF Family
+Cd70	TNF Family
+Eda	TNF Family
+Lta	TNF Family
+Ltb	TNF Family
+Tnf	TNF Family
+Tnfsf10	TNF Family
+Tnfsf11	TNF Family
+Tnfsf13b	TNF Family
+Tnfsf15	TNF Family
+Tnfsf18	TNF Family
+Tnfsf4	TNF Family
+Tnfsf8	TNF Family
+Tnfsf9	TNF Family
+Cd27	TNF Receptors
+Cd40	TNF Receptors
+Dr1	TNF Receptors
+Edar	TNF Receptors
+Fas	TNF Receptors
+Ltbr	TNF Receptors
+Pglyrp1	TNF Receptors
+Relt	TNF Receptors
+Tnfrsf11a	TNF Receptors
+Tnfrsf11b	TNF Receptors
+Tnfrsf13b	TNF Receptors
+Tnfrsf13c	TNF Receptors
+Tnfrsf14	TNF Receptors
+Tnfrsf18	TNF Receptors
+Tnfrsf1a	TNF Receptors
+Tnfrsf1b	TNF Receptors
+Tnfrsf21	TNF Receptors
+Tnfrsf25	TNF Receptors
+Tnfrsf4	TNF Receptors
+Tnfrsf8	TNF Receptors
+Tnfrsf9	TNF Receptors
+
+
+
+
+
+
+
+
+
+
+
